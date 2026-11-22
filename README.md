@@ -20,17 +20,19 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 
 ### How I work
 
-**Spec before code.** I split a feature into small, precise tasks before anything gets written, whether the builder is me, a team, or an AI agent.<br>
-**Agents write, I own.** Claude Code, Codex and Cursor are part of my daily workflow. Architecture, review, debugging and release decisions stay with me.<br>
+**Spec before code.** I split a feature into small, precise tasks before anything gets written, whether the builder is me, a team, or an AI agent.
+
+**Agents write, I own.** Claude Code, Codex and Cursor are part of my daily workflow. Architecture, review, debugging and release decisions stay with me.
+
 **Feedback closes the loop.** HealthVerse's sign-up flow, health sync and notifications were all reworked from what users told me.
 
 ### Also on my GitHub
 
-| | |
-|:--|:--|
-| [**TelcoAssist**](https://github.com/barissolcay/telecom-support-intelligence) | A grounded AI copilot for telecom support teams. RAG over a knowledge base, ticket triage, priority prediction. [Live demo →](https://barissolcay.github.io/telecom-support-intelligence/) |
-| [**BIST Early Moves**](https://github.com/barissolcay/bist-tahmin) | A research framework for early price moves on Borsa İstanbul, built around frozen methodology and point-in-time data. |
-| [**Portfolio Optimization**](https://github.com/barissolcay/portfolio_optimization) | A Streamlit dashboard for mean-variance optimization, validated with walk-forward backtests. |
+**[TelcoAssist](https://github.com/barissolcay/telecom-support-intelligence)** · A grounded AI copilot for telecom support teams: RAG over a knowledge base, ticket triage and priority prediction. [Live demo →](https://barissolcay.github.io/telecom-support-intelligence/)
+
+**[BIST Early Moves](https://github.com/barissolcay/bist-tahmin)** · A research framework for early price moves on Borsa İstanbul, built around a frozen methodology and point-in-time data.
+
+**[Portfolio Optimization](https://github.com/barissolcay/portfolio_optimization)** · A Streamlit dashboard for mean-variance optimization, validated with walk-forward backtests.
 
 ### Toolbox
 
