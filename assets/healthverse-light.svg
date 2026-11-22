@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="HealthVerse — a gamified health and fitness app, live on iOS and Android">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;letter-spacing:1.5px}
+</style>
+<rect x="1" y="1" width="958" height="258" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<circle cx="44" cy="46" r="4" fill="#D4532A"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="56" y="50" class="mono" fill="#D4532A">NOW SHIPPING</text>
+<text x="38" y="104" class="sans" font-size="40" font-weight="700" letter-spacing="-1" fill="#1F2328">HealthVerse</text>
+<text x="40" y="140" class="sans" font-size="17" fill="#59636E">Daily movement becomes a game: weekly leagues, streaks,</text>
+<text x="40" y="164" class="sans" font-size="17" fill="#59636E">duels and team challenges. Live on iOS and Android.</text>
+<text x="40" y="214" class="mono" fill="#59636E">SOLO BUILD · FLUTTER · ASP.NET CORE · POSTGRESQL · REACT</text>
+<rect x="640" y="184" width="30" height="22" rx="4" fill="#D0D7DE" opacity="0.55">
+  <animate attributeName="height" from="0" to="22" begin="0.00s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="184" begin="0.00s" dur="0.6s" fill="freeze"/>
+</rect>
+<rect x="682" y="166" width="30" height="40" rx="4" fill="#D0D7DE" opacity="0.61">
+  <animate attributeName="height" from="0" to="40" begin="0.12s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="166" begin="0.12s" dur="0.6s" fill="freeze"/>
+</rect>
+<rect x="724" y="148" width="30" height="58" rx="4" fill="#D0D7DE" opacity="0.67">
+  <animate attributeName="height" from="0" to="58" begin="0.24s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="148" begin="0.24s" dur="0.6s" fill="freeze"/>
+</rect>
+<rect x="766" y="130" width="30" height="76" rx="4" fill="#D0D7DE" opacity="0.73">
+  <animate attributeName="height" from="0" to="76" begin="0.36s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="130" begin="0.36s" dur="0.6s" fill="freeze"/>
+</rect>
+<rect x="808" y="112" width="30" height="94" rx="4" fill="#D0D7DE" opacity="0.79">
+  <animate attributeName="height" from="0" to="94" begin="0.48s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="112" begin="0.48s" dur="0.6s" fill="freeze"/>
+</rect>
+<rect x="850" y="94" width="30" height="112" rx="4" fill="#D0D7DE" opacity="0.85">
+  <animate attributeName="height" from="0" to="112" begin="0.60s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="94" begin="0.60s" dur="0.6s" fill="freeze"/>
+</rect>
+<rect x="892" y="76" width="30" height="130" rx="4" fill="#D4532A" opacity="1">
+  <animate attributeName="height" from="0" to="130" begin="0.72s" dur="0.6s" fill="freeze"/>
+  <animate attributeName="y" from="206" to="76" begin="0.72s" dur="0.6s" fill="freeze"/>
+</rect>
+<text x="640" y="236" class="mono" fill="#59636E">7-TIER LEAGUE</text>
+</svg>
