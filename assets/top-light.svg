@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="350" viewBox="0 0 960 350" role="img" aria-label="Barış Olçay. An engineer with a product brain. I decide what to build, then build it end to end.">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 30 960 320" role="img" aria-label="Barış Olçay. Computer engineer in İzmir. I built HealthVerse on my own, from the first idea to both app stores.">
 <style>
 .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
 .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;letter-spacing:.5px}
 </style>
-<text x="40" y="42" class="mono" fill="#59636E">barissolcay</text>
-<text x="920" y="42" text-anchor="end" class="mono" fill="#59636E">İzmir · 38.42°N 27.14°E</text>
 <text x="36" y="140" class="sans" font-size="68" font-weight="700" letter-spacing="-2" fill="#1F2328">Barış Olçay</text>
-<text x="40" y="192" class="sans" font-size="22" fill="#59636E">An engineer with a <tspan fill="#1F2328">product brain</tspan>.</text>
-<text x="40" y="226" class="sans" font-size="22" fill="#59636E">I decide what to build, then build it end to end.</text>
+<text x="40" y="192" class="sans" font-size="22" fill="#59636E">Computer engineer in İzmir.</text>
+<text x="40" y="226" class="sans" font-size="22" fill="#59636E">I built <tspan fill="#1F2328">HealthVerse</tspan> on my own, from the first idea to both app stores.</text>
 <line x1="40" y1="290" x2="920" y2="290" stroke="#D0D7DE" stroke-width="1.5"/>
 <line x1="40" y1="290" x2="40" y2="290" stroke="#D4532A" stroke-width="1.5">
   <animate attributeName="x2" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.8;0.95;1" values="40;920;920;40" calcMode="linear"/>

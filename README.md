@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/head-dark.svg">
-  <img alt="Barış Olçay. An engineer with a product brain. I decide what to build, then build it end to end." src="assets/head-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/top-dark.svg">
+  <img alt="Barış Olçay. Computer engineer in İzmir. I built HealthVerse on my own, from the first idea to both app stores." src="assets/top-light.svg" width="100%">
 </picture>
 
 <br>
 
-Computer engineering graduate from Dokuz Eylül University, based in İzmir. I like owning the whole path of a product: deciding what is worth building, writing the spec, building it with AI coding agents, reviewing every change, and shipping it to real people.
+Hi, I'm Barış. I finished computer engineering at Dokuz Eylül University in 2026. Over the past year I built HealthVerse by myself: the Flutter app, the .NET backend, the database, the admin panel and the website. Doing every part of it taught me that the code is rarely the hardest part. Deciding what is worth building, and listening when people tell you it isn't working, usually is.
 
-**Open to** software engineering roles (mobile, backend, full-stack) and product roles (associate product manager, product associate), in İzmir, İstanbul or remote.
+I'm looking for my next team: **software engineering roles** (mobile, backend or full-stack) or **product roles** such as associate product manager. İzmir, İstanbul or remote.
 
 <br>
 
@@ -21,34 +21,32 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 <p align="center">
   <a href="https://healthverse.app">healthverse.app</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://apps.apple.com/tr/app/healthverse/id6765671137">App Store</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.healthverse.mobile">Google Play</a>
   <br>
-  <sub>Flutter · ASP.NET Core · PostgreSQL · React &nbsp;—&nbsp; mobile app, API, database, admin panel and website, built and run by one person.</sub>
+  <sub>Flutter · ASP.NET Core · PostgreSQL · React. The app is in Turkish and the code is private, but I'm happy to walk you through it.</sub>
 </p>
 
 <br>
 
-### How I work
+### What building it alone taught me
 
-**Spec before code.** I split a feature into small, precise tasks before anything gets written, whether the builder is me, a team, or an AI agent.
+**Write it down first.** Before I start a feature, I write down what it should do and what it shouldn't, in pieces small enough to finish in one sitting. That habit matters even more now that AI coding tools write a lot of the code: they work from what I write, and I read every change before it ships.
 
-**Agents write, I own.** Claude Code, Codex and Cursor are part of my daily workflow. Architecture, review, debugging and release decisions stay with me.
+**People will use it differently than you planned.** HealthVerse's sign-up flow, health sync and notifications all changed after real people used them and told me what didn't work.
 
-**Feedback closes the loop.** HealthVerse's sign-up flow, health sync and notifications were all reworked from what users told me.
-
-<br>
-
-### Side projects I use and share
-
-**[Meet Note Bot](https://github.com/barissolcay/meet-not-alma-botu)** · A Chrome extension that takes notes in Google Meet for you: it joins at the time you set, writes a timestamped transcript with speaker names, and hands it to your AI tool for a summary. Everything stays on your computer.
-
-**[DEU Attendance Bot](https://github.com/barissolcay/deu-yoklama)** · A Telegram bot my classmates and I used every week. One person shares the attendance code in the group chat and the bot submits it for everyone, instead of each of us logging in one by one.
-
-**[Sanal Ajanda](https://github.com/barissolcay/sanal-ajanda-public)** · My personal planner as an installable web app, with daily to yearly views. React, TypeScript and Supabase with Row Level Security.
-
-**[RAG Course Assistant](https://github.com/barissolcay/rag-course-assistant)** · Ask questions over your course PDFs and slides and get answers with their sources. Local ChromaDB index, OCR for scanned pages, Streamlit UI.
+**Shipping is a job of its own.** Store reviews, release builds, tests in CI and fixing things in production take as much care as building the features.
 
 <br>
 
-### Toolbox
+### Smaller things I've built
+
+**[Meet not alma botu](https://github.com/barissolcay/meet-not-alma-botu)** · A note-taking Chrome extension for Google Meet. It joins at the time you set, turns the live captions into a transcript with names and timestamps, and gets it ready for an AI summary. Nothing leaves your computer.
+
+**[Sanal Ajanda](https://github.com/barissolcay/sanal-ajanda-public)** · A planner I made for my own days and weeks, with daily to yearly views. You can install it on your phone like an app. React, TypeScript and Supabase.
+
+**[RAG Course Assistant](https://github.com/barissolcay/rag-course-assistant)** · Point it at a folder of course PDFs and slides, ask a question, and it answers with the pages the answer came from. Runs locally, and reads scanned pages too.
+
+<br>
+
+### What I work with
 
 | Mobile | Backend | Data | AI |
 |:--|:--|:--|:--|
@@ -57,9 +55,9 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 
 <br>
 
-### Off the keyboard
+### Outside my own projects
 
-500+ hours of one-on-one teaching in Java, C# and Python. On the PMI Türkiye İzmir chapter's volunteer app, I caught missing screens and flows in the requirements before development and then built the whole React Native frontend with a five-person team. Ran promotion and design for IEEE DETECH, a 1,800-person tech conference.
+I've spent more than 500 hours teaching Java, C# and Python one-on-one. I volunteer with PMI Türkiye in İzmir: on the chapter's volunteer app, I pointed out missing screens and flows before development started, then built the whole React Native frontend with a team of five. At university, I ran promotion and design for IEEE DETECH, a tech conference with more than 1,800 attendees.
 
 <br>
 <br>
