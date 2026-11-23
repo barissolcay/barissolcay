@@ -8,14 +8,14 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 <a href="https://healthverse.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/healthverse-dark.svg">
-    <img alt="HealthVerse. Daily movement becomes a game: weekly leagues, streaks, duels and team challenges. Live on iOS and Android." src="assets/healthverse-light.svg" width="100%">
+    <img alt="HealthVerse. Your daily steps become a weekly race with friends: leagues, streaks, duels and team challenges. Live on iOS and Android." src="assets/healthverse-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
   <a href="https://healthverse.app">healthverse.app</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://apps.apple.com/tr/app/healthverse/id6765671137">App Store</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.healthverse.mobile">Google Play</a>
   <br>
-  <sub>Mobile app, API, database, admin panel and website, built and run by one person. Selected for Teknopark İstanbul's BİGG Cube incubation program.</sub>
+  <sub>Mobile app, API, database, admin panel and website, built and run by one person.</sub>
 </p>
 
 ### How I work
