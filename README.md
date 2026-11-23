@@ -7,7 +7,7 @@
 
 Computer engineering graduate from Dokuz Eylül University, based in İzmir. I like owning the whole path of a product: deciding what is worth building, writing the spec, building it with AI coding agents, reviewing every change, and shipping it to real people.
 
-**Open to mobile and full-stack roles** in İzmir, İstanbul or remote.
+**Open to** software engineering roles (mobile, backend, full-stack) and product roles (associate product manager, product associate), in İzmir, İstanbul or remote.
 
 <br>
 
@@ -59,7 +59,7 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 
 ### Off the keyboard
 
-500+ hours of one-on-one teaching in Java, C# and Python. Built the whole React Native frontend of the PMI Türkiye İzmir chapter's volunteer app with a five-person team. Ran promotion and design for IEEE DETECH, a 1,800-person tech conference.
+500+ hours of one-on-one teaching in Java, C# and Python. On the PMI Türkiye İzmir chapter's volunteer app, I caught missing screens and flows in the requirements before development and then built the whole React Native frontend with a five-person team. Ran promotion and design for IEEE DETECH, a 1,800-person tech conference.
 
 <br>
 <br>
