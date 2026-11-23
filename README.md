@@ -7,6 +7,8 @@
 
 Computer engineering graduate from Dokuz Eylül University, based in İzmir. I like owning the whole path of a product: deciding what is worth building, writing the spec, building it with AI coding agents, reviewing every change, and shipping it to real people.
 
+**Open to mobile and full-stack roles** in İzmir, İstanbul or remote.
+
 <br>
 
 <a href="https://healthverse.app">
@@ -34,13 +36,15 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 
 <br>
 
-### Also on my GitHub
+### Side projects I use and share
 
-**[TelcoAssist](https://github.com/barissolcay/telecom-support-intelligence)** · A grounded AI copilot for telecom support teams: RAG over a knowledge base, ticket triage and priority prediction. [Live demo →](https://barissolcay.github.io/telecom-support-intelligence/)
+**[Meet Note Bot](https://github.com/barissolcay/meet-not-alma-botu)** · A Chrome extension that takes notes in Google Meet for you: it joins at the time you set, writes a timestamped transcript with speaker names, and hands it to your AI tool for a summary. Everything stays on your computer.
 
-**[BIST Early Moves](https://github.com/barissolcay/bist-tahmin)** · A research framework for early price moves on Borsa İstanbul, built around a frozen methodology and point-in-time data.
+**[DEU Attendance Bot](https://github.com/barissolcay/deu-yoklama)** · A Telegram bot my classmates and I used every week. One person shares the attendance code in the group chat and the bot submits it for everyone, instead of each of us logging in one by one.
 
-**[Portfolio Optimization](https://github.com/barissolcay/portfolio_optimization)** · A Streamlit dashboard for mean-variance optimization, validated with walk-forward backtests.
+**[Sanal Ajanda](https://github.com/barissolcay/sanal-ajanda-public)** · My personal planner as an installable web app, with daily to yearly views. React, TypeScript and Supabase with Row Level Security.
+
+**[RAG Course Assistant](https://github.com/barissolcay/rag-course-assistant)** · Ask questions over your course PDFs and slides and get answers with their sources. Local ChromaDB index, OCR for scanned pages, Streamlit UI.
 
 <br>
 
