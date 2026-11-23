@@ -11,15 +11,15 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 
 <a href="https://healthverse.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hvcard-dark.svg">
-    <img alt="HealthVerse. A movement game: steps and workouts earn points in solo, joint and community tasks, and those points climb a weekly league. Live on iOS and Android." src="assets/hvcard-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hv-dark.svg">
+    <img alt="HealthVerse: move, earn points, climb the league. Steps and workouts from 20+ sports feed solo, joint and community tasks, duels and a weekly league. Live on iOS and Android." src="assets/hv-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
   <a href="https://healthverse.app">healthverse.app</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://apps.apple.com/tr/app/healthverse/id6765671137">App Store</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.healthverse.mobile">Google Play</a>
   <br>
-  <sub>Mobile app, API, database, admin panel and website, built and run by one person.</sub>
+  <sub>Flutter · ASP.NET Core · PostgreSQL · React &nbsp;—&nbsp; mobile app, API, database, admin panel and website, built and run by one person.</sub>
 </p>
 
 <br>
