@@ -11,8 +11,8 @@ Computer engineering graduate from Dokuz Eylül University, based in İzmir. I l
 
 <a href="https://healthverse.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hv-dark.svg">
-    <img alt="HealthVerse: move, earn points, climb the league. Steps and workouts from 20+ sports feed solo, joint and community tasks, duels and a weekly league. Live on iOS and Android." src="assets/hv-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hv-home-dark.svg">
+    <img alt="HealthVerse: your daily movement, turned into a game. Keep a streak alive with 3,000 steps a day, finish daily tasks, duel friends and climb seven weekly leagues. Live on iOS and Android." src="assets/hv-home-light.svg" width="100%">
   </picture>
 </a>
 
