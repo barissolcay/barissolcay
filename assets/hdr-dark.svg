@@ -6,7 +6,8 @@
 <text x="40" y="42" class="mono" fill="#8B949E">barissolcay</text>
 <text x="920" y="42" text-anchor="end" class="mono" fill="#8B949E">İzmir · 38.42°N 27.14°E</text>
 <text x="36" y="128" class="sans" font-size="68" font-weight="700" letter-spacing="-2" fill="#E6EDF3">Barış Olçay</text>
-<text x="40" y="172" class="sans" font-size="22" fill="#8B949E">Computer engineer. I take products from an idea to the <tspan fill="#E6EDF3">App Store</tspan>.</text>
+<text x="40" y="170" class="sans" font-size="22" fill="#8B949E">An engineer with a <tspan fill="#E6EDF3">product brain</tspan>.</text>
+<text x="40" y="200" class="sans" font-size="22" fill="#8B949E">I decide what to build, then build it end to end.</text>
 <line x1="40" y1="250" x2="920" y2="250" stroke="#30363D" stroke-width="1.5"/>
 <line x1="40" y1="250" x2="40" y2="250" stroke="#F0794F" stroke-width="1.5">
   <animate attributeName="x2" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.8;0.95;1" values="40;920;920;40" calcMode="linear"/>

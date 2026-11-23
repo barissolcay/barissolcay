@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Barış Olçay. Computer engineer. I take products from an idea to the App Store." src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-dark.svg">
+  <img alt="Barış Olçay. An engineer with a product brain. I decide what to build, then build it end to end." src="assets/hdr-light.svg" width="100%">
 </picture>
 
 Computer engineering graduate from Dokuz Eylül University, based in İzmir. I like owning the whole path of a product: deciding what is worth building, writing the spec, building it with AI coding agents, reviewing every change, and shipping it to real people.
